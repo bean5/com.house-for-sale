@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       {/* <HelloWorld /> */}
-      {/* <NavBar /> */}
+      <NavBar />
       <HouseForSale />
     </div>
   )
