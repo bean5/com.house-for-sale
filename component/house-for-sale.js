@@ -1,11 +1,13 @@
 import css from './house-for-sale.module.css'
+import HouseSlider from './house-slider'
 
 export default function HouseForSale() {
   return (
-    <div>
-      <h1 className={css.body}>Beautiful Rambler for Sale by Owner</h1>
+    <div className={css.body}>
+      <h1>Beautiful Rambler for Sale by Owner</h1>
       <h2>Deep cleaned, prepared, and bright!</h2>
-      <p>[Image carousel here]</p>
+      <HouseSlider />
+      <br />
       <i>Attractive rambler in established, friendly neighborhood on nearly 0.25 acres, nestled in peaceful cul-de-sac with quick commute.</i>
       <ul>
         <li>Short Commutes!</li>
