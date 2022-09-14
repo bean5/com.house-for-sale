@@ -1,4 +1,25 @@
-# next-css example
+# SUV123.com
+
+## Build Instructions
+
+Success! Created with-next-css-app at /home/bean/Dropbox/projects/www/bean5/com.suv123.gh.kb/next.js/with-next-css-app
+Inside that directory, you can run several commands:
+
+  yarn dev
+    Starts the development server.
+
+  yarn build
+    Builds the app for production.
+
+  yarn start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd with-next-css-app
+  yarn dev
+
+## Documentation
 
 This example demonstrates how to use Next.js' built-in CSS imports and CSS modules support.
 
