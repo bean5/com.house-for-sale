@@ -99,7 +99,7 @@
   "resolved" "https://registry.npmjs.org/react-simple-image-slider/-/react-simple-image-slider-2.4.1.tgz"
   "version" "2.4.1"
 
-"react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^17.0.2 || ^18.0.0-0", "react@^18.2.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0":
+"react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^17.0.2 || ^18.0.0-0", "react@^18.2.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=0.14 || >=15.0":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"
@@ -112,6 +112,11 @@
   "version" "0.23.0"
   dependencies:
     "loose-envify" "^1.1.0"
+
+"simple-react-modal@^0.5.1":
+  "integrity" "sha512-jMVR+PTH8cmZ+2eqEDJPDKCgdSOJSz5/YC3v05vhnWRJ8LczjEiA0UGNLDjSjQHbynQpn/WrNFbbkrjFc0ueLQ=="
+  "resolved" "https://registry.npmjs.org/simple-react-modal/-/simple-react-modal-0.5.1.tgz"
+  "version" "0.5.1"
 
 "source-map-js@^1.0.2":
   "integrity" "sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw=="

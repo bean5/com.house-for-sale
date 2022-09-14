@@ -16,6 +16,7 @@
   padding: 10px;
   right: 0;
   top: 5px;
+  z-index: 1;
 }
 
 .nav * {
@@ -29,4 +30,8 @@
 .nav li a {
   color: blue;
   text-decoration: none;
+}
+
+.slogan {
+  margin-left: 20px;
 }

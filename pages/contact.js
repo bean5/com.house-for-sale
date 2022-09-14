@@ -1,11 +1,13 @@
+import Footer from '../component/footer'
+import Contact from '../component/contact'
 import NavBar from '../component/navbar'
-import HouseForSale from '../component/house-for-sale'
 
 export default function Home() {
   return (
     <div>
       <NavBar />
-      <HouseForSale />
+      <Contact />
+      <Footer />
     </div>
   )
 }
