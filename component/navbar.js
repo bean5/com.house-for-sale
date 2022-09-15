@@ -10,6 +10,7 @@ export default function NavBar() {
           <li><a href="tel:3606890181">(360) 689-0181</a></li>
           <li><a href="mailto:info@suv123.com">email</a></li>
         </ul>
+        <img src="images/pretty-home-qr.png" width="125" />
       </nav>
     </div>
   )
