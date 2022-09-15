@@ -4,8 +4,9 @@ import HouseSlider from './house-slider'
 export default function HouseForSale() {
   return (
     <div className={css.body}>
-      <h1>Beautiful Rambler for Sale by Owner</h1>
-      <h2>Deep cleaned, prepared, and bright!</h2>
+      <br />
+      <h3>For Sale by Owner</h3>
+      <p>Deep cleaned, prepared, and bright!</p>
       <HouseSlider />
       <br />
       <i>Attractive rambler in established, friendly neighborhood on nearly 0.25 acres, nestled in peaceful cul-de-sac with quick commute.</i>
