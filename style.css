@@ -6,6 +6,6 @@ body {
   color: var(--some-color);
   background-color: #fafafa;
   background-image: url(public/images/indtextb.jpg);
-  margin: 40px;
+  margin: 20px;
   max-width: 1400px;
 }
