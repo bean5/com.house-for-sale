@@ -40,6 +40,7 @@ export default function HouseForSale() {
         <li>ADA friendly front door pathway, covered porch</li>
         <li>French doors</li>
         <li>Bright kitchen</li>
+        <li>Room for separate washer/dryer units</li>
         <li>Remote controlled fan</li>
         <li>Archway feature overlooking wide</li>
         <li>Beautiful views of sunrise and double rainbows over lush garden and visits of wildlife ranging from deer to eagles to bunnies</li>
