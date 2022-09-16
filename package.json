@@ -1,4 +1,5 @@
 {
+  "cacheDirectories": [".next/cache"],
   "private": true,
   "scripts": {
     "dev": "next",
