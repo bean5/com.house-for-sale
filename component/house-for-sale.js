@@ -29,6 +29,7 @@ export default function HouseForSale() {
         <li>Repurposed vintage wood gate</li>
         <li>Green per-room electric heating</li>
         <li>Modern LED lighting</li>
+        <li>Newly remodeled</li>
         <li>Dog-friendly premium scratch resistant plank flooring</li>
         <li>Walk in closet</li>
         <li>Established community</li>
@@ -37,6 +38,7 @@ export default function HouseForSale() {
         <li>Thick steel reinforced concrete driveway designed and built for parking a 36 foot motorhome</li>
         <li>There is also ample parking for you and your guests</li>
         <li>ADA friendly front door pathway, covered porch</li>
+        <li>French doors</li>
         <li>Bright kitchen</li>
         <li>Remote controlled fan</li>
         <li>Archway feature overlooking wide</li>
