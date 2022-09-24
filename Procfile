@@ -1,1 +1,1 @@
-yarn build && yarn start -- -p 80
+yarn build && yarn start -p 80
