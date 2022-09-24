@@ -27,7 +27,9 @@ export default function HouseSlider() {
         showNavs={true}
       />
       {/* <a href="https://photos.google.com/share/AF1QipMUWoRCOEdcHetNnGbk159XqivHN7q_sfcK7PZ7az1oMqh9_wNl90T27IRpunxJkQ?key=TVJhYmlzcUt5WmN0M0pWN1plM2lfZ0dBTGtrZDln">Full album</a> */}
-      <a href="https://photos.app.goo.gl/jS47qK238mA72Mk6A">Full album</a>
+      {/* First album */}
+      {/* <a href="https://photos.app.goo.gl/jS47qK238mA72Mk6A">Full album</a> */}
+      <a href="https://photos.app.goo.gl/8jRyhvbNJ3kzSD4U8">Full album</a>
       <br />
     </>
   )
