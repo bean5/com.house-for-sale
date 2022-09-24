@@ -52,6 +52,8 @@ export default function HouseForSale() {
         <li>Rental income: $2000+</li>
       </ul>
       <p><strong>Bonuses</strong>: blackberry bushes, mature trees, fridge, oven, dishwasher, front loading washer dryer set, amateur radio antenna post, nearby elementary school, churches, and open fields. Walking distance to shopping centers. No HOA. Retired neighbor next door who maintains his property like clock work.</p>
+
+      <p>NMLS: TBD</p>
     </div>
   )
 }
