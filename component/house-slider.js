@@ -17,7 +17,7 @@ const images = [
 
   { url: "https://lh3.googleusercontent.com/pw/AL9nZEWuYuZ0SNGldurtbAYME36j343GzqXV9vMKDLdDjQng-v3jogXD7ygE8YJpGt-YW2cu1TyZ7Zr4w89GzJ-NowZqwk59Qv53dIocJaYfE9BKGWPe6ChKhKJgjIzdL9tn5lkWX-6hFUvLFa0Rp2Rre9FwFg=w1744-h1308-no?authuser=0", type: "living room super wide shot" },
   { url: "https://lh3.googleusercontent.com/pw/AL9nZEUfDA3W2AHclkyPaaUpd_wNewG_3YQjz1kOe9UuPP5OWS-BFL1QQB-if_C-gd7Wo1so2nD3ih-H73xbhMsrfq_5OsJGj5po1zQp2NL6O8QlExGVt3MxqIjwP5yR01RR4I70aMSFqgoKPlNLuTJK9a_Jkw=w1744-h1308-no?authuser=0", type: "living room angle" },
-  { url: "https://lh3.googleusercontent.com/pw/AL9nZEU-E9urJg95LLR4tMHjtK-JjUahOQD0_Pn4frPqcpMl_1lnw2YCWeaSI_qbwSuK38r0s5H3G0wwmr7xzsXN-X5DAyBItE-Ziy5s7nOXrf2A0epk1TSbmRU3ubvo9wGxuI8uhgxmYr7EaFhX20iF70ULrg=w920-h690-no?authuser=0", type: "living sofa" },
+  // { url: "https://lh3.googleusercontent.com/pw/AL9nZEU-E9urJg95LLR4tMHjtK-JjUahOQD0_Pn4frPqcpMl_1lnw2YCWeaSI_qbwSuK38r0s5H3G0wwmr7xzsXN-X5DAyBItE-Ziy5s7nOXrf2A0epk1TSbmRU3ubvo9wGxuI8uhgxmYr7EaFhX20iF70ULrg=w920-h690-no?authuser=0", type: "living sofa" },
 
   { url: "https://lh3.googleusercontent.com/pw/AL9nZEXx8CwTvdmod3BI3ByTvzbaeVvWLKn4y-TVVk4M-PWFZji6YsuPHpEQjcaSvS5z5VoFO06eX8PsMjkNde9t9KAlayN3hhZjs3Sy8np6btnA3MWqoM0AY0mnjMYUfSw60_A74dyppi_TCAEde1NSZIEJpg=w1744-h1308-no?authuser=0", type: "room-2" },
 
