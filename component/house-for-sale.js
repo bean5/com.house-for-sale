@@ -14,6 +14,8 @@ export default function HouseForSale() {
       <i>Attractive rambler in established, friendly neighborhood on nearly 0.25 acres, nestled in peaceful cul-de-sac with quick commute.</i>
       <br />
       <br />
+      <i>1156 sq feet, 4 bedroom, 1 ½ bath</i>
+      <br />
       <ul>
         <li>Short Commutes!</li>
         <ul>
