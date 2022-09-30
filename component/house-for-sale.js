@@ -56,6 +56,7 @@ export default function HouseForSale() {
       <p><strong>Bonuses</strong>: blackberry bushes, mature trees, fridge, oven, dishwasher, amateur radio antenna post, nearby elementary school, churches, and open fields. Walking distance to shopping centers. No HOA. Retired neighbor next door who maintains his property like clock work.</p>
 
       <p>NMLS: TBD</p>
+      <p><a href="https://docs.google.com/document/d/1y7-qZBAfFVPMxPI1rJ73ve4zwtq2DJ1amjQ05xZNc_0/edit?usp=sharing">Google doc</a></p>
     </div>
   )
 }
