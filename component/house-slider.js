@@ -3,6 +3,7 @@ import SimpleImageSlider from "react-simple-image-slider";
 const images = [
   // local
   // { url: "../images/pretty-home-qr.png" },
+  // { url: "https://lh3.googleusercontent.com/pw/AL9nZEV_bXoMsHB1FVNYOPRl13BzHtBugo0nNKlaZyE5ziM2TJoah6PfEq_SAyniEtZ-dehh38Mj7aAANLKyNePAWrHmMSL215zljTzo4L8APqe5-FkX6mo4NuD1ULhBrBas1ImlqLnl_Ol9OxFPuJ3LZfMjwg=w2491-h1335-no?authuser=0", type: "full front widescreen" },
   // remote
   { url: "https://lh3.googleusercontent.com/pw/AL9nZEWNruV_Zt8U_Rbtak1oqNRGer6SJb4UvBBE7YC3acTJrr-zVqHe02by-xsxTSCqG-S7P3VlQTuqVD0GjXT1hZaK5XEWuoBy0n5R0w9xmL5VlxG_ykoKjQXuaonS0zD1KlpAtb6NKgF5KGxpRMgtxuR33g=w920-h690-no?authuser=0", type: "master bed from front" },
   // { url: "https://lh3.googleusercontent.com/pw/AL9nZEX3djJkRgGDzyurmV-n1oEOXtldPOEy_cREPtOdLGNgT-2XkQkqc6J8Ye_J4D0rRg5873UpdchHmS_n9L8Yn9IEW_7oYgqVsDYjIx91JcZ3qwO83wvHR4fj-1miw62BhxOK_jlSnTh7J932_sgW1yvfkw=w920-h690-no?authuser=0", type: "master angle" },
