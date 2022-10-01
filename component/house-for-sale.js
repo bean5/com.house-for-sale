@@ -9,6 +9,7 @@ export default function HouseForSale() {
       <br />
       <h3>For Sale (NMLS: <strong>2002774</strong>)<a style={{ 'margin-left': '5px' }} href="https://www.google.com/maps/place/3008+Ruby+Ct+SE,+Port+Orchard,+WA+98366/@47.5206364,-122.6281303,132m/data=!3m1!1e3!4m5!3m4!1s0x549037d567e0e0c9:0x8bcecd10a333fa05!8m2!3d47.5207542!4d-122.6282027"><Button type="Button" className="btn btn-primary">Aerial map</Button></a></h3>
       <p>Home Sweet Home</p>
+      <p>3008 Ruby CT SE Port Orchard, WA 98366</p>
       <HouseSlider />
       <br />
       <i>Attractive remodeled four bedroom and one and a half bathrooms rambler in an established, friendly neighborhood on 0.26 acre. The living space is just shy of 1,200 square feet.</i>
