@@ -7,7 +7,7 @@ export default function HouseForSale() {
   return (
     <div className={css.body}>
       <br />
-      <h3>For Sale by Owner <a style={{ 'margin-left': '5px' }} href="https://www.google.com/maps/place/3008+Ruby+Ct+SE,+Port+Orchard,+WA+98366/@47.5206364,-122.6281303,132m/data=!3m1!1e3!4m5!3m4!1s0x549037d567e0e0c9:0x8bcecd10a333fa05!8m2!3d47.5207542!4d-122.6282027"><Button type="Button" className="btn btn-primary">Aerial map</Button></a></h3>
+      <h3>For Sale (NMLS: <strong>2002774</strong>)<a style={{ 'margin-left': '5px' }} href="https://www.google.com/maps/place/3008+Ruby+Ct+SE,+Port+Orchard,+WA+98366/@47.5206364,-122.6281303,132m/data=!3m1!1e3!4m5!3m4!1s0x549037d567e0e0c9:0x8bcecd10a333fa05!8m2!3d47.5207542!4d-122.6282027"><Button type="Button" className="btn btn-primary">Aerial map</Button></a></h3>
       <p>Home Sweet Home</p>
       <HouseSlider />
       <br />
@@ -55,7 +55,6 @@ export default function HouseForSale() {
       </ul>
       <p><strong>Bonuses</strong>: blackberry bushes, mature trees, fridge, oven, dishwasher, amateur radio antenna post, nearby elementary school, churches, and open fields. Walking distance to shopping centers. No HOA. Retired neighbor next door who maintains his property like clock work.</p>
 
-      <p>NMLS: TBD</p>
       <p><a href="https://docs.google.com/document/d/1y7-qZBAfFVPMxPI1rJ73ve4zwtq2DJ1amjQ05xZNc_0/edit?usp=sharing">Google doc</a></p>
     </div>
   )
