@@ -11,49 +11,44 @@ export default function HouseForSale() {
       <p>Home Sweet Home</p>
       <HouseSlider />
       <br />
-      <i>Attractive rambler in established, friendly neighborhood on nearly 0.25 acres, nestled in peaceful cul-de-sac with quick commute.</i>
+      <i>Attractive remodeled four bedroom and one and a half bathrooms rambler in an established, friendly neighborhood on 0.26 acre. The living space is just shy of 1,200 square feet.</i>
       <br />
       <br />
+      <p>New roof with premium ridge venting and transferable warranty.  Energy efficient windows, new floors, neutral paint colors, new heaters and lighting.</p>
       <i>1156 sq feet, 4 bedroom, 1 ½ bath</i>
       <br />
       <ul>
-        <li>Short Commutes!</li>
+        <li>Nestled in a peaceful cul-de-sac with quick commute:</li>
         <ul>
           <li>18 minutes to Southworth Fast Ferry</li>
-          <li>6 minutes to library</li>
           <li>5 minutes to delightful dog park</li>
+          <li>6 minutes to kayaking</li>
+          <li>3 minutes to Starbucks</li>
+          <li>6 minutes to library</li>
           <li>5 minutes to the US post office</li>
-          <li>2 minutes to calm kayaking</li>
-          <li>2 minutes to Starbucks</li>
-          <li>2 minutes to grocery store and banks and restaurants</li>
+          <li>3 minutes to grocery store, banks and restaurants.</li>
         </ul>
-        <li>Amazing non-well water with strong pressure and refreshing taste</li>
-        <li>Repurposed vintage wood gate</li>
-        <li>Green per-room electric heating</li>
-        <li>Modern LED lighting</li>
-        <li>Newly remodeled</li>
-        <li>Dog-friendly premium scratch resistant plank flooring</li>
-        <li>Walk in closet</li>
-        <li>Established community</li>
-        <li>Relaxing cross breeze through the home</li>
-        <li>Deep, finished garage with attic access</li>
-        <li>Thick steel reinforced concrete driveway designed and built for parking a 36 foot motorhome</li>
-        <li>There is also ample parking for you and your guests</li>
-        <li>ADA friendly front door pathway, covered porch</li>
-        <li>French doors</li>
-        <li>Bright kitchen</li>
-        <li>Room for separate washer/dryer units</li>
-        <li>Remote controlled fan</li>
-        <li>Archway feature overlooking wide</li>
-        <li>Beautiful views of sunrise and double rainbows over lush garden and visits of wildlife ranging from deer to eagles to bunnies</li>
-        <li>New roof with transferable warranty, newer energy efficient windows, new floors, neutral paint colors. fresh paint</li>
-        <li>There are no houses visible from the home looking out into the back yard giving you privacy and an experience of nature</li>
-        <li>Must see it to experience how bright this house is compared to others in this area!! Back yard is secluded and private.</li>
-        <li>Reliable, fast internet. A programmer worked from home here and commuted to Seattle by ferry.</li>
-        <li>HOA: None! Growing neighborhood with recently remodeled homes.</li>
-        <li>Rental income: $2000+</li>
+        <li>ADA friendly front door pathway under a covered porch. </li>
+        <li>Bright kitchen with beautiful views of sunrise.  Archway </li>entry into the kitchen with ceiling fan.
+        <li>Great tasting and refreshing public water from the West </li>Sound Utility District.
+        <li>Green electric heating, modern LED lighting, allergy free </li>plank flooring.
+        <li>Appliances included: refrigerator, stove, microwave, and </li>roll around dishwasher.
+        <li>Relaxing cross breeze through the home. </li>
+        <li>Must see it to experience how bright this house is </li>compared to others in this area!
+        <li>Deep garage with a workbench and shelving. </li>
+        <li>Thick, steel reinforced concrete driveway designed and </li>built for parking a motorhome. There is also ample parking for you and your guests.
+        <li>Reliable, fast cable internet available. A programmer once </li>worked from home here and commuted to Seattle by ferry.
+        <li>Potential rental income: $2,200+</li>
+        <li>Bonus: blackberry bushes, mature trees, shaded nearly </li>level back yard.
+        <li>In the backyard we have visits of wildlife ranging from </li>deer to eagles to bunnies. There are no houses visible from the home looking out into the back yard giving you privacy and an experience of nature.
+        <li>Walking distance to elementary school, churches, open </li>fields and to shopping centers.
+        <li>West Sound Utility District sewer.</li>
+        <li>No HOA :) </li>
+        <li>Ready for you to buy and move in!</li>
+        <li>Give us a call at 360-689-0181</li>
+        <li>Buyer to verify details</li>
+        <li>Information deemed reliable but not guaranteed</li>
       </ul>
-      <p><strong>Bonuses</strong>: blackberry bushes, mature trees, fridge, oven, dishwasher, amateur radio antenna post, nearby elementary school, churches, and open fields. Walking distance to shopping centers. No HOA. Retired neighbor next door who maintains his property like clock work.</p>
 
       <p><a href="https://docs.google.com/document/d/1y7-qZBAfFVPMxPI1rJ73ve4zwtq2DJ1amjQ05xZNc_0/edit?usp=sharing">Google doc</a></p>
     </div>
