@@ -50,6 +50,7 @@ export default function HouseForSale() {
         <li>Information deemed reliable but not guaranteed</li>
       </ul>
 
+      <p>Here's a page I have to legally link to so as to not be in breach of contract. Therefore I place it here non-relucantly, very clearly on this page: <a href="https://www.johnlscott.com/search/listing/20205826">https://www.johnlscott.com/search/listing/20205826</a></p>
       {/* <p><a href="https://docs.google.com/document/d/1y7-qZBAfFVPMxPI1rJ73ve4zwtq2DJ1amjQ05xZNc_0/edit?usp=sharing">Google doc</a></p> */}
     </div>
   )
