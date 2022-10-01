@@ -45,7 +45,7 @@ export default function HouseForSale() {
         <li>West Sound Utility District sewer.</li>
         <li>No HOA :) </li>
         <li>Ready for you to buy and move in!</li>
-        <li>Give us a call at 360-689-0181</li>
+        {/* <li>Give us a call at 360-689-0181</li> */}
         <li>Buyer to verify details</li>
         <li>Information deemed reliable but not guaranteed</li>
       </ul>

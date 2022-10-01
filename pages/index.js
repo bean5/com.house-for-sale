@@ -4,7 +4,7 @@ import HouseForSale from '../component/house-for-sale'
 export default function Home() {
   return (
     <div>
-      <NavBar />
+      {/* <NavBar /> */}
       <HouseForSale />
     </div>
   )
