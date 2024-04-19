@@ -1,24 +1,21 @@
 {
-  "cacheDirectories": [
-    ".next/cache"
-  ],
   "private": true,
   "scripts": {
-    "dev": "next",
     "build": "next build",
+    "dev": "next dev",
     "start": "next start"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.1",
-    "next": "^12.3.0",
-    "react-bootstrap": "^2.5.0",
+    "next": "latest",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
     "react-simple-image-slider": "^2.4.1",
     "simple-react-modal": "^0.5.1"
   },
   "engines": {
-    "node": "18.20.2"
+    "node": ">=18"
   }
 }
