@@ -14,6 +14,9 @@ Inside that directory, you can run several commands:
   yarn start
     Runs the built app in production mode.
 
+  yarn deploy
+    Deploys the built app in production mode.
+
 We suggest that you begin by typing:
 
   cd with-next-css-app

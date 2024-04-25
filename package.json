@@ -1,6 +1,9 @@
 {
+  "homepage": "https://bean5.github.io/com.house-for-sale",
   "private": true,
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "build": "next build",
     "dev": "next dev",
     "start": "next start"
@@ -17,5 +20,8 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
